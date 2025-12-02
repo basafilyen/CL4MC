@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 69,
+		"description": "Basatayti fe Minecraft cel Globasa"
+	},
+	"language": {
+		"qgb": {
+			"name": "Globasa",
+			"bidirectional": false
+		}
+	}
+}
